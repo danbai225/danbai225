@@ -16,4 +16,7 @@ D:::::::::::::::DD   a:::::aaaa::::::a   n::::n    n::::nB:::::::::::::::::B a::
 D::::::::::::DDD      a::::::::::aa:::a  n::::n    n::::nB::::::::::::::::B   a::::::::::aa:::ai::::::i
 DDDDDDDDDDDDD          aaaaaaaaaa  aaaa  nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB     aaaaaaaaaa  aaaaiiiiiiii
 ```
-![]( https://visitor-badge.glitch.me/badge?page_id=danbai225)
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=danbai225)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=danbai225&hide=ipynb,html&layout=compact)
+'''
