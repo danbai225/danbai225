@@ -1,7 +1,8 @@
 ## Statistics
  Stats | language
 --- | --- 
-[![ASWLuanchs's GitHub 数据](https://github-readme-stats.vercel.app/api?username=ASWLaunchs)]() | ![ASWLaunchs's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWLaunchs&layout=compact&hide_border=true&langs_count=10)
+[![DanBai's GitHub 数据](https://github-readme-stats.vercel.app/api?username=danbai225)]() | ![DanBai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danbai225&layout=compact&hide_border=true&langs_count=10)
+
 ![DanBai's github activity graph](https://activity-graph.herokuapp.com/graph?username=danbai225&theme=react-dark)
 爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
 
