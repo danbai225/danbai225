@@ -10,7 +10,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: athul/waka-readme@master
         with:
