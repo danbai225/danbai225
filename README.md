@@ -32,9 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,5 +63,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danbai225/danbai225/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 05:33:45 UTC
+ Last Updated on 31/08/2022 05:51:19 UTC
 <!--END_SECTION:waka-->
