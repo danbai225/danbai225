@@ -7,7 +7,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '30 1 * * *'
-
 jobs:
   update-readme:
     name: Update this repo's README
@@ -16,3 +15,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          key: ${{ secrets.GH_TOKEN}}
