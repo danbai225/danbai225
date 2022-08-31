@@ -15,3 +15,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
+          SHOW_SHORT_INFO: "False"
