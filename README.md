@@ -20,6 +20,40 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 521 Contributions in the Year 2022
+ > 
+> 📦 306.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I Mostly Code in Go** 
+
+```text
+Go                       18 repos            █████████████░░░░░░░░░░░░   54.55% 
+Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/danbai225/danbai225/master/charts/bar_graph.png) 
+
+
+ Last Updated on 31/08/2022 05:33:45 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> 
