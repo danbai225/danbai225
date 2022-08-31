@@ -18,6 +18,9 @@
 </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center"> 
 爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
 
