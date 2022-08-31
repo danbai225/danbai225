@@ -1,3 +1,15 @@
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+DanBai)](https://git.io/typing-svg)
+
+爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
+
+外面的世界好大,期待遇到各种各样的人结识更多朋友。
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danbai9420) 
+[![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://p00q.cn)
+[![](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white)](mailto:danbai@88.com)
+</div>
 
 <!-- Light Mode -->
 <div align="center"> 
@@ -26,7 +38,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 522 Contributions in the Year 2022
+> 🏆 521 Contributions in the Year 2022
  > 
 > 📦 306.6 kB Used in GitHub's Storage 
  > 
@@ -53,16 +65,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danbai225/danbai225/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 05:37:28 UTC
+ Last Updated on 31/08/2022 05:33:45 UTC
 <!--END_SECTION:waka-->
-
-<div align="center"> 
-爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
-
-外面的世界好大,期待遇到各种各样的人结识更多朋友。
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danbai9420) 
-[![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://p00q.cn)
-[![](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white)](mailto:danbai@88.com)
-</div>
-
