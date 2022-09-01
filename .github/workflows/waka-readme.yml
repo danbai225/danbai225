@@ -1,8 +1,8 @@
 name: Waka Readme
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update this repo's README
