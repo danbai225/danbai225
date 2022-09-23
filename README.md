@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2051%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -102,5 +102,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danbai225/danbai225/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 00:19:22 UTC
+ Last Updated on 23/09/2022 08:08:05 UTC
 <!--END_SECTION:waka-->
