@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2024%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -98,5 +98,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2022 08:06:03 UTC
+ Last Updated on 04/10/2022 16:07:00 UTC
 <!--END_SECTION:waka-->
