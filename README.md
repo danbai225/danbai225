@@ -34,6 +34,48 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2040%20mins-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+🌆 Daytime    339 commits    ███████████░░░░░░░░░░░░░░   47.35% 
+🌃 Evening    215 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
+🌙 Night      22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
+Tuesday      109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Thursday     158 commits    █████░░░░░░░░░░░░░░░░░░░░   22.07% 
+Friday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Saturday     120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
+Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -47,5 +89,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 16:04:44 UTC
+ Last Updated on 13/12/2022 00:13:43 UTC
 <!--END_SECTION:waka-->
