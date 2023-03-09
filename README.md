@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,16 +61,18 @@ Sunday                   39 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     17 mins             ████████████████████░░░░░   79.80 % 
+YAML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+temp                     22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,5 +88,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2023 16:03:55 UTC
+ Last Updated on 09/03/2023 00:12:07 UTC
 <!--END_SECTION:waka-->
