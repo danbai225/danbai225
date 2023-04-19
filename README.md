@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -95,5 +95,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2023 00:13:16 UTC
+ Last Updated on 19/04/2023 08:04:57 UTC
 <!--END_SECTION:waka-->
