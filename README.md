@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -97,5 +97,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2023 00:13:18 UTC
+ Last Updated on 24/09/2023 08:04:54 UTC
 <!--END_SECTION:waka-->
