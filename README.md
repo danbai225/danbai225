@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%2034%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,5 +53,5 @@ Intellijidea             31 hrs 3 mins       ███████████�
 ```
 
 
- Last Updated on 02/03/2024 08:05:12 UTC
+ Last Updated on 02/03/2024 16:05:22 UTC
 <!--END_SECTION:waka-->
