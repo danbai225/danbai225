@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,5 +54,5 @@ VS Code                  3 hrs 38 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 19/05/2024 00:14:39 UTC
+ Last Updated on 19/05/2024 08:04:56 UTC
 <!--END_SECTION:waka-->
