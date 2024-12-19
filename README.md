@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C271%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C278%20hrs%2021%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,10 +48,10 @@
 
 ```text
 🔥 Editors: 
-Chrome                   24 hrs 19 mins      █████████████░░░░░░░░░░░░   52.70 % 
-IntelliJ IDEA            21 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.30 % 
+IntelliJ IDEA            22 hrs 9 mins       █████████████░░░░░░░░░░░░   50.31 % 
+Chrome                   21 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.69 % 
 ```
 
 
- Last Updated on 18/12/2024 16:06:29 UTC
+ Last Updated on 19/12/2024 00:17:37 UTC
 <!--END_SECTION:waka-->
