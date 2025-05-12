@@ -32,7 +32,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C377%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C373%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,5 +54,5 @@ Cursor                   1 hr                ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/05/2025 08:07:44 UTC
+ Last Updated on 12/05/2025 16:06:28 UTC
 <!--END_SECTION:waka-->
