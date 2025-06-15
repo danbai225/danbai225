@@ -6,7 +6,7 @@
 
 外面的世界好大,期待遇到各种各样的人结识更多朋友。
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mika_1094) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rand_xx231jnfasj_bot) 
 [![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://p00q.cn)
 [![](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white)](mailto:danbai@88.com)
 </div>
