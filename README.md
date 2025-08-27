@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=eeeeee&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+DanBai)](https://git.io/typing-svg)
 
-爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
-
-外面的世界好大,期待遇到各种各样的人结识更多朋友。
-
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rand_xx231jnfasj_bot) 
     [![](https://img.shields.io/badge/-Blog-brightgreen?style=flat&logo=Blogger&logoColor=white)](https://danbai225.github.io)
 [![](https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.Ru&logoColor=white)](mailto:danbai@88.com)
