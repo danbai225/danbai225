@@ -28,7 +28,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C150%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C144%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,5 +51,5 @@ Zed                      58 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/09/2025 08:07:01 UTC
+ Last Updated on 03/09/2025 16:06:39 UTC
 <!--END_SECTION:waka-->
