@@ -28,7 +28,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C981%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C981%20hrs%2035%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,5 +51,5 @@ RustRover                20 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/12/2025 08:07:23 UTC
+ Last Updated on 28/12/2025 16:06:55 UTC
 <!--END_SECTION:waka-->
