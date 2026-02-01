@@ -28,8 +28,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C188%20hrs%2048%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -51,5 +49,5 @@ Rustrover                2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/02/2026 08:09:05 UTC
+ Last Updated on 01/02/2026 16:08:25 UTC
 <!--END_SECTION:waka-->
